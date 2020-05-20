@@ -1,0 +1,2 @@
+vcdb_new_2019.csv是从https://github.com/vz-risk/vcdb下载的数据泄露数据集
+其余为数据处理后的文件
