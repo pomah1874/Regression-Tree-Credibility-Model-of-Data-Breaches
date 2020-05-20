@@ -1,2 +1,3 @@
-vcdb_new_2019.csv是从https://github.com/vz-risk/vcdb下载的数据泄露数据集
-其余为数据处理后的文件
+vcdb_new_2019.csv是从https://github.com/vz-risk/vcdb下载的原始的数据泄露数据集，除了record_loss.csv其余数据集都可以由脚本生成。
+
+record_loss.csv是数据泄露量与损失金额数据，由于生成该数据的脚本比较简单，所以没有上传。
