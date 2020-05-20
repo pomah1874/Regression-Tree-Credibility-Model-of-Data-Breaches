@@ -4,8 +4,8 @@
 数据源：https://github.com/vz-risk/vcdb
 
 参考代码：
-https://github.com/shiluqiang/GBDT_regression
 https://github.com/chandarb/Python-Regression-Tree-Forest
+https://github.com/shiluqiang/GBDT_regression
 
 参考文献：
 Diao L, Weng C. Regression Tree Credibility Model[J]. 
